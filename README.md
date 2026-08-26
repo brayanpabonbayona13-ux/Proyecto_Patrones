@@ -1,1 +1,1 @@
-# Proyecto_Patrones
+# Proyecto: Plataforma de Votación Electrónica)
